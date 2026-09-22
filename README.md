@@ -4,7 +4,6 @@
 
 This repository contains simulation files and documentation for a project focused on **designing and characterizing 3-terminal multi-bit Resistive RAM (RRAM)** devices for **in-memory computing (IMC)** applications, implemented using Cadence tools.
 
-
 ## 📌 Key Features
 
 - **3T RRAM Cell Design**: Enables single-cycle MAC operations unlike 2T RRAM which needs 3 cycles (initialize, compute, read).
